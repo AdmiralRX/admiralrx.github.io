@@ -1,0 +1,53 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Log In</title>
+	<style type="text/css">
+		body{width:100%; width:100%; overflow:hidden;}
+		table {margin-top:100px; color:white; font-size: 30; height:500px; width:500px; background: rgba(0, 0, 0, 0.5);}
+		div video{
+		position: absolute;
+		top:0%;
+		left: 0%;
+		min-width: 100%;
+		width: auto;
+		height: auto;
+		z-index:-2;
+		}
+		.ri1{color:orange;}
+		.bb {width:200px; height:40px; background-color:red;}
+		.aa {width:200px; height:40px; background-color:red;}
+	</style>
+</head>
+<body>
+	<div>
+	<video muted autoplay="true" loop>
+		<source src="plane.mp4" type="video/mp4">
+	</video>
+	</div>
+	<form name="login" action="FinalP.html" type=get>
+	<table align="center">
+		<thead>
+		</thead>
+		<tbody>
+			<tr><td colspan="3" class="ri1"><center>WELCOME TO TRAVELNESIA</center></td></tr>
+			<tr><td>USERNAME</td>
+				<td>:</td>
+				<td><input type="text" size="50" name="o1" onChange="get()"></td>
+			</tr>
+			<tr><td>PASSWORD</td>
+				<td>:</td>
+				<td><input type="password" size="50" name="o2"></td>
+			</tr>
+			<tr>
+				<td><input type="submit" class="aa" name="SUBMIT" value="LOG IN" onClick="go()"></td>
+				<td></td>
+				<td><input type="button" class="bb" name="SKIP" value="SKIP" onClick="skp()"></td>
+			</tr>
+		</tbody>
+	</table>
+</form>
+</body>
+<script type="text/JavaScript" src="log2.js">
+</script>
+</html>

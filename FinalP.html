@@ -1,0 +1,105 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>FinalP</title>
+		<style type="text/css">
+			#bt{position:absolute; margin-left: 1000px; margin-top:612px; height:30px; background-color: rgb(229, 102, 9); cursor:pointer;}
+			body:not(.aa) {width:100%; height:100%; overflow:hidden; margin:0px 0px 0px 0px; background-color:rgb(221, 17, 0);}
+			#adg{font-size:18; margin-left:900px;margin-top:30px; position:absolute; z-index: +2; background:rgb(25,25,112); color:white; max-width:200px;min-width: 200px}
+			#kll{margin-left:530px;margin-top:615px; position:absolute; z-index: +2; font-size:23;}
+			#bdg{margin-left:15px;margin-top:7px; position:absolute; z-index: +2; font-size:37; font-weight: bold}
+			.a1{margin-top:270; margin-left: 180; position:absolute; z-index: +2;}
+			.a2{margin-top:270; margin-left: 450; position:absolute; z-index: +2}
+			.a3{margin-top:300; margin-left: 600; position:absolute; z-index: +2}
+			.a4{margin-top:220; margin-left: 780; position:absolute; z-index: +2}
+			.a5{margin-top:500; margin-left:20; position:absolute; bottom:0px; left:0px; transform: translate3d(0px, 0px, 0); transition: transform 2s cubic-bezier(0, .64, .52, .24);}
+			.a6{margin-top:220; margin-left: 1000; position:absolute; z-index: +2}
+			.a7{margin-top:520; margin-left: 410; position:absolute; z-index: +2}
+			.a8{margin-top:500; margin-left: 350; position:absolute; z-index: +2}
+			.a9{margin-top:480; margin-left: 300; position:absolute; z-index: +2}
+			.a0{margin-top:540; margin-left: 485; position:absolute; z-index: +2}
+			.aa{display:none; 
+				margin-left:1100px; 
+				position:absolute; 
+				border: 1px black; 
+				background: yellow; 
+				max-height: 670px;
+			    max-width: 266px;
+				min-height:670px; 
+				min-width:266px; 
+				overflow-y:scroll; 
+				overflow-x:hidden; 
+				animation-name:daa;
+				animation-duration: 2s}
+			.modal{display:none; position:fixed; z-index:+3; padding top:100px; left:0; top:0; width:100%;; height:100%; overflow: auto; background-color: rgb(0,0,0,0); background-color: rgba(0,0,0,0.75); margin-top: :50%;}
+			.modal-content {
+				min-height:50%;
+				font-size:20;
+    			background-color: cyan;
+    			margin: auto;
+    			padding: 20px;
+    			border: 1px solid #888;
+    			width: 50%;margin-top:10%;margin-left:25%;
+    			animation-name:ert; 
+    			animation-duration:3s;}
+    		@keyframes ert{
+    			from {margin-top:-20%};
+    			to {margin-top:15%;}
+    		}
+    		@keyframes daa{
+    			from { width:150px; height:150px; margin-top:30%; }
+    			to {width:266px; height:670px;}
+    		}
+    		.close {
+    			color: brown;
+    			float: right;
+    			font-size: 28px;
+    			font-weight: bold;}
+
+			.close:hover,
+			.close:focus {
+   				color: #000;
+   			 	text-decoration: none;
+   			 	cursor: pointer;}
+   			.llo{transition: all .2s ease-in-out;}
+   			.llo:hover{transform: scale(1.6);}
+
+			canvas {z-index:-2; position:absolute;}
+		</style>
+	</head>
+	<body onload="displaypop(), myCanvas(), close2()">
+
+		<input type="button" id="bt" name="kk" value="BOOK NOW" onclick="next()">
+		<div id="bdg">TRAVEL MAP</div>
+		<div id="kll">Decided your destination ??? book your hotel now</div>
+		<div id="adg"></div>
+
+		<img id="o1" class="a1 llo" onclick="loadDoc('sumatera.txt')" onmousemove="move('o1')"  src="dot.png" width="20px" height="20px">
+		<img id="o2" class="a2 llo" onclick="loadDoc('km.txt')" onmouseenter="move('o2')" src="dot.png" width="20px" height="20px">
+		<img id="o3" class="a3 llo" onclick="loadDoc('slw.txt')" onmouseenter="move('o3')" src="dot.png" width="20px" height="20px">
+		<img id="o4" class="a4 llo" onclick="loadDoc('maluku.txt')" onmouseenter="move('o4')" src="dot.png" width="20px" height="20px">
+		<img id="h1" class="a5" src="plane3.png" width="150px" height="150px">
+		<img id="o5" class="a6 llo" onclick="loadDoc('papua.txt')"onmouseenter="move('o5')" src="dot.png" width="20px" height="20px">
+		<img id="o6" class="a8 llo" onclick="loadDoc('jawa.txt')" onmouseenter="move('o6')" src="dot.png" width="20px" height="20px">		
+		<img id="o7" class="a0 llo" onclick="loadDoc('bali.txt')" onmouseenter="move('o7')" src="dot.png" width="15px" height="15px">
+
+		<div class="aa" id="ab"></div>
+		<canvas id="canvas1" width="1100px" height="670px"></canvas>
+
+		<div id="modal1" class="modal">
+			<div class="modal-content">
+				<span class="close" id="close" onclick="close1()">&times;</span>
+				<p><center>HOW TO USE THIS SITES :</center>
+					<br>
+					<br>1. Choose the location on the map
+					<br><br>2. Take a look at the top 3 tourist attractions
+					<br><br>3. Decide your destination
+					<br><br>4. Click book your hotel
+				</p>
+			</div>
+		</div>
+
+	</body>
+	<script type="text/JavaScript" src="log2.js">
+	</script>
+</html>

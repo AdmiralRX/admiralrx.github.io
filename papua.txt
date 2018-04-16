@@ -1,0 +1,20 @@
+<b style="font-size:32">PAPUA</b>
+<br><br>
+Papua is the largest and easternmost province of Indonesia
+<br><br>
+<img src="pp.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Raja Ampat <img src="rj4.jpg" width="100%"></img>
+<br>
+Locations : West Papua
+<br><br>
+2. Sentani Lake <img src="st1.jpg" width="100%"></img>
+<br>
+Locations : 50 Km from Jayapura
+<br><br>
+3. Bosnik Beach <img src="bs.jpg" width="100%"></img>
+<br>
+Locations : 15 Km from Biak
+<br><br>

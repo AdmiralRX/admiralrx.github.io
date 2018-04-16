@@ -1,0 +1,20 @@
+<b style="font-size:32">SUMATRA</b>
+<br><br>
+Sumatra is a large island in Western Indonesia which is a part of Sunda Island
+<br><br>
+<img src="sumatra.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Lake Toba <img src="tb.jpg"></img>
+<br>
+Locations : North Sumatra
+<br><br>
+2. Weh Island <img src="weh.jpg"></img>
+<br>
+Locations : Aceh
+<br><br>
+3. Malin Kundang <img src="ml.jpg"></img>
+<br>
+Locations : West Sumatra
+<br><br>

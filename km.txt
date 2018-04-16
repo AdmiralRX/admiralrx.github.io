@@ -1,0 +1,20 @@
+<b style="font-size:32">KALIMANTAN ISLAND</b>
+<br><br>
+Kalimantan is the Indonesian portion of the island of Borneo
+<br><br>
+<img src="km2.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Melawai Beach <img src="m1.jpg" width="100%"></img>
+<br>
+Locations : East Kalimantan
+<br><br>
+2. Tajuk Bridge <img src="tj.jpg" width="100%"></img>
+<br>
+Locations : East Kalimantan
+<br><br>
+3. Kelam Hill <img src="kl.jpg" width="100%"></img>
+<br>
+Locations : West Kalimantan
+<br><br>

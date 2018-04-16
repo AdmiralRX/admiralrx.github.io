@@ -1,0 +1,20 @@
+<b style="font-size:32">JAVA ISLAND</b>
+<br><br>
+Java is an island located in the south of Indonesia
+<br><br>
+<img src="java1.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Borobudur Temple <img src="b1.jpg" width="100%"></img>
+<br>
+Locations : Central Java
+<br><br>
+2. Mount Bromo <img src="boro.jpg" width="100%"></img>
+<br>
+Locations : East Java
+<br><br>
+3. Anyer Beach <img src="an.jpg" width="100%"></img>
+<br>
+Locations : Banten
+<br><br>

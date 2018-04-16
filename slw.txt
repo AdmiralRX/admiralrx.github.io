@@ -1,0 +1,20 @@
+<b style="font-size:32">SULAWESI ISLAND</b>
+<br><br>
+Sulawesi, formerly known as Celebes, is an island in Eastern Indonesia
+<br><br>
+<img src="sl1.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Bunaken Island <img src="bu.jpg" width="100%"></img>
+<br>
+Locations : North Sulawesi
+<br><br>
+2. Siladen Island <img src="sil.jpg" width="100%"></img>
+<br>
+Locations : North Sulawesi
+<br><br>
+3. Linow Lake <img src="lin.jpg" width="100%"></img>
+<br>
+Locations : North Sulawesi
+<br><br>

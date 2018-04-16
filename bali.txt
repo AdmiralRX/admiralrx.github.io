@@ -1,0 +1,20 @@
+<b style="font-size:32">BALI ISLAND</b>
+<br><br>
+Bali Island, Bali Province is an island and Province of Indonesia, located in Southern Indonesia
+<br><br>
+<img src="bl.jpg" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Tanah Lot <img src="lot.jpeg" width="100%"></img>
+<br>
+Locations : Tabanan
+<br><br>
+2. Kuta Beach <img src="kt.jpg" width="100%"></img>
+<br>
+Locations : 9 Km from Denpasar
+<br><br>
+3. Sanur Beach <img src="snr.jpg" width="100%"></img>
+<br>
+Locations : East of Denpasar
+<br><br>

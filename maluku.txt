@@ -1,0 +1,20 @@
+<b style="font-size:32">MALUKU ISLAND</b>
+<br><br>
+The Maluku Islands or the Moluccas are an archipelago within Banda Sea, Eastern Indonesia
+<br><br>
+<img src="maluku1.png" width="100%"></img>
+<br><br>
+Top 3 tourist attractions :
+<br><br>
+1. Mount Dukuno <img src="mtd.jpg" width="100%"></img>
+<br>
+Locations : Halmahera Island
+<br><br>
+2. Pombo Island <img src="pom.jpg" width="100%"></img>
+<br>
+Locations : Ambon
+<br><br>
+3. Hunimoa Island <img src="hu.jpg" width="100%"></img>
+<br>
+Locations : Ambon
+<br><br>
